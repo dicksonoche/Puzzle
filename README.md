@@ -4,4 +4,5 @@ A JavaScript image sliding puzzle with grid.
 - Implementation of the Puzzle Logic
 - Win Condition
 - Testing and Debugging
-To access: Download ann unzip
+
+For access: Download and unzip
